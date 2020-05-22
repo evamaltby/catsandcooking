@@ -1,1 +1,1 @@
-This is my first coding project learnt with [this free html course](https://onemonth.com/courses/learn-html-free/steps/welcome-to-learn-html-for-free-at-one-month) from onemonth.com. I decided to use my new found love of cooking to create a website where I could help other people. Enjoy!
+This is my first coding project learnt with [this free html course](https://onemonth.com/courses/learn-html-free) from onemonth.com. I decided to use my new found love of cooking to create a website where I could help other people. Enjoy!
